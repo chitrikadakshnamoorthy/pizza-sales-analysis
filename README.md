@@ -16,13 +16,12 @@ This repository showcases detailed sales analytics project that leverages MS SQL
 The project analyzes one year of pizza sales data to identify:
 
 - Revenue trends
-- Customer ordering behavior
 - Peak business days and months
 - Best-selling pizzas
 - Worst-selling pizzas
 - Category-wise performance
 - Pizza size contribution
-- 
+
 ## Tech Stack
 
 - MS SQL Server
